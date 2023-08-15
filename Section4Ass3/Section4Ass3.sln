@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section4Ass3", "Section4Ass3\Section4Ass3.csproj", "{158B86B0-AB29-42C5-B32A-C982E756E0BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboNUnitTest", "FiboNUnitTest\FiboNUnitTest.csproj", "{AAEF521B-D2CF-44E6-BF60-75326B887221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158B86B0-AB29-42C5-B32A-C982E756E0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158B86B0-AB29-42C5-B32A-C982E756E0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158B86B0-AB29-42C5-B32A-C982E756E0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158B86B0-AB29-42C5-B32A-C982E756E0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEF521B-D2CF-44E6-BF60-75326B887221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEF521B-D2CF-44E6-BF60-75326B887221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEF521B-D2CF-44E6-BF60-75326B887221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEF521B-D2CF-44E6-BF60-75326B887221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7D1E38-937B-4149-BE0B-72CAD06AA965}
+	EndGlobalSection
+EndGlobal
