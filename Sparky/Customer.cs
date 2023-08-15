@@ -9,10 +9,33 @@ namespace Sparky
     public class Customer
     {
         public string GreetMsg { get; set; }
-        public string CustFullName(string firstName, string lastName)
+        public int OrderTotal { get; set; }
+        public int Discount { get; set; } = 20;
+        public string CustGreetingFullName(string firstName, string lastName)
         {
-            GreetMsg = firstName + " " + lastName;
+
+            if(string.IsNullOrWhiteSpace(firstName))
+            {
+                throw new ArgumentException("Empty First Name");
+            }
+            GreetMsg = "Hello, " + firstName + " " + lastName;
+            Discount = 35;
             return GreetMsg;
+
+        }       
+
+        public CustomerType GetCustomerDetails()
+        {
+            if (OrderTotal < 100)
+            {
+                return new BasicCustomer();
+            }
+            return new PlatinumCustomer();
         }
     }
+
+
+    public class CustomerType { }
+    public class BasicCustomer :CustomerType{ }
+    public class PlatinumCustomer: CustomerType { }
 }
