@@ -8,25 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bhrug\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
+      "projectUniqueName": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
       "projectName": "Bongo.Models",
-      "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
-      "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\obj\\",
+      "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -56,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

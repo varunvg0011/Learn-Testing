@@ -1,0 +1,17 @@
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.Core.deps.json
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.Core.dll
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.Core.pdb
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.DataAccess.dll
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.Models.dll
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.DataAccess.pdb
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\bin\Debug\net6.0\Bongo.Models.pdb
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.AssemblyReference.cache
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.AssemblyInfoInputs.cache
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.AssemblyInfo.cs
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.CoreCompileInputs.cache
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.csproj.CopyComplete
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.dll
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\refint\Bongo.Core.dll
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\Bongo.Core.pdb
+E:\LearnTesting\71 Sparky Unit Testing\Snippets\Section 7\Bongo_InitialSetup (.NET 6)\Bongo.Core\obj\Debug\net6.0\ref\Bongo.Core.dll

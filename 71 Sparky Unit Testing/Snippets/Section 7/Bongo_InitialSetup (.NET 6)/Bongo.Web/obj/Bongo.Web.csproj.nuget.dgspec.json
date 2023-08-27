@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj": {}
+    "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj": {
+    "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj",
+        "projectUniqueName": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj",
         "projectName": "Bongo.Core",
-        "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj",
-        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\obj\\",
+        "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj"
+              "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
+                "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj"
               }
             }
           }
@@ -53,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,26 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
+    "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj",
+        "projectUniqueName": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj",
         "projectName": "Bongo.DataAccess",
-        "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\obj\\",
+        "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -94,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj": {
-                "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj"
+              "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj": {
+                "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj"
               }
             }
           }
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,26 +146,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj": {
+    "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
+        "projectUniqueName": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
         "projectName": "Bongo.Models",
-        "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
-        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\obj\\",
+        "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\Bongo.Models.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -193,7 +195,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -202,43 +205,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj": {
+    "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+        "projectUniqueName": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
         "projectName": "Bongo.Web",
-        "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
-        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\obj\\",
+        "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\Bongo.Web.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj": {
-                "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj"
+              "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj": {
+                "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.Core\\Bongo.Core.csproj"
               },
-              "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\bhrug\\OneDrive\\Desktop\\Udemy\\Documents & Snippets\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj"
+              "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj": {
+                "projectPath": "E:\\LearnTesting\\71 Sparky Unit Testing\\Snippets\\Section 7\\Bongo_InitialSetup (.NET 6)\\Bongo.DataAccess\\Bongo.DataAccess.csproj"
               }
             }
           }
@@ -255,21 +259,21 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[6.0.0-preview.5.21301.17, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0-preview.5.21301.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[6.0.0-preview.5.21301.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.0-preview.5.21301.9, )"
+              "version": "[7.0.10, )"
             }
           },
           "imports": [
@@ -278,7 +282,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -290,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

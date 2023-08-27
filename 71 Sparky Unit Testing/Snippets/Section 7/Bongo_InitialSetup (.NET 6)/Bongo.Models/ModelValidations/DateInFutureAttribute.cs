@@ -12,7 +12,8 @@ namespace Bongo.Models.ModelValidations
         private readonly Func<DateTime> _dateTimeNowProvider;
 
         public DateInFutureAttribute()
-          : this(() => DateTime.Now)
+          : this(() => DateTime.Now)//this is sending a call to parametrized constructor
+            //of this class and passing the parameter as DT.now
         {
         }
 

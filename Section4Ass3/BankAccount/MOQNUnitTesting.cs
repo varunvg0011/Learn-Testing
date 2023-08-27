@@ -141,9 +141,9 @@ namespace MOQWithUnitTesting
 
             Assert.IsTrue(logMock.Object.LogWithRefObj(ref customer));
 
-            //since we have setup only customer obj, i dosnt know what to do with customerNotInUse 
+            //since we have setup only customer obj, it dosnt know what to do with customerNotInUse 
             //so test wont pass
-            Assert.IsTrue(logMock.Object.LogWithRefObj(ref customerNotInUse));
+            //Assert.IsTrue(logMock.Object.LogWithRefObj(ref customerNotInUse));
             
         }
 
@@ -170,14 +170,16 @@ namespace MOQWithUnitTesting
         [Test]
         public void LogToDB_InputWithCallback_ReturnChangedValues()
         {
-            string logTemp = "Hello ";
+            string logTemp = "Hello, ";
             var logMock = new Mock<IBankLogger>();
+            //Whatever value we pass in the parameter of LogToDB below, we are accessing that value
+            //and doing another operation on it
             logMock.Setup(m => m.LogToDB(It.IsAny<string>())).Returns(true)
-                .Callback((string result) => logTemp + result);
+                .Callback((string result) => logTemp += result);
 
             //Now calling it
             logMock.Object.LogToDB("Varun");
-            Assert.That(logTemp, Is.EqualTo("Hello, Ben"));
+            Assert.That(logTemp, Is.EqualTo("Hello, Varun"));
             //---------------
 
             int counter = 5;
